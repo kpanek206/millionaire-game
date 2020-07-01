@@ -1,0 +1,18 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test_isim_beh.exe" -prj "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test_beh.prj" "work.test" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/zamek.vhd" into library work
+Parsing VHDL file "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity zamek [zamek_default]
+Compiling architecture behavior of entity test
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test_isim_beh.exe
+Fuse Memory Usage: 31092 KB
+Fuse CPU Usage: 452 ms

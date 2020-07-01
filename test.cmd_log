@@ -1,0 +1,3 @@
+vhdtdtfi -lib work zamek.vhd -lib work test.vhd -prj Lab7.1 -o test.spl -module test -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e test.spl D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/test.sym 
+vhdtdtfi -prj Lab7.1 -o D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/test.vhi -module test -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work zamek.vhd -lib work test.vhd 

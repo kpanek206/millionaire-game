@@ -1,0 +1,15 @@
+V3 7
+FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/test.vhd 2020/05/22.21:06:06 P.20131013
+EN work/test 0 \
+      FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/test.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/test/behavior 0 \
+      FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/test.vhd \
+      EN work/test 0 CP zamek
+FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd 2020/05/22.22:28:36 P.20131013
+EN work/zamek 1590179617 \
+      FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/zamek/Behavioral 1590179618 \
+      FL D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd \
+      EN work/zamek 1590179617

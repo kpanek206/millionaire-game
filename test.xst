@@ -1,0 +1,5 @@
+set -tmpdir "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/xst/projnav.tmp"
+set -xsthdpdir "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/xst"
+elaborate
+-ifn test.prj
+-ifmt mixed

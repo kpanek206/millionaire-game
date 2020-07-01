@@ -1,0 +1,12 @@
+[Inputs]
+Clk
+Rst
+D0_Rdy
+F0
+=D0[7:0]=
+[Outputs]
+Y
+WE
+DnI
+=DI[7:0]=
+[BiDir]

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test_isim_beh.exe" -prj "D:/Keyo/Studia/semestr_VI/UCiSW2/Milionerzy/test_beh.prj" "work.test" 

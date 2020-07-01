@@ -1,0 +1,82 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" in Library work.
+Entity <zamek> compiled.
+ERROR:HDLParsers:3345 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 47.  Only SHARED variables can be declared here.
+ERROR:HDLParsers:3345 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 48.  Only SHARED variables can be declared here.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 89. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 92. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 96. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 97. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 102. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 105. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 109. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 110. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 115. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 118. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 122. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 123. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 128. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 131. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 135. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 136. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 141. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 144. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 148. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 149. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 154. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 157. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 161. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 162. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 167. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 170. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 174. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 175. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 180. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 183. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 187. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 188. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 193. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 196. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 200. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 201. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 206. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 209. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 213. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 214. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 219. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 222. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 226. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 227. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 232. Variable 'CHANCE' CHANCE is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - "D:/Keyo/Studia/semestr_VI/UCiSW2/DigitalAndEmbeddedSystems-master/DigitalAndEmbeddedSystems-master/Lab7/zamek.vhd" Line 233. Variable 'SKIP' SKIP is at left hand side of signal assignment statement.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.21 secs
+ 
+--> 
+
+Total memory usage is 4430320 kilobytes
+
+Number of errors   :   48 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
